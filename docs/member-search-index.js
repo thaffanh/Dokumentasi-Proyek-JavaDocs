@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"dokumentasi.proyek","c":"KalkulatorSederhana","l":"KalkulatorSederhana()","u":"%3Cinit%3E()","k":"3"},{"p":"dokumentasi.proyek","c":"KalkulatorSederhana","l":"kurangi(double, double)","u":"kurangi(double,double)"},{"p":"dokumentasi.proyek","c":"KalkulatorSederhana","l":"tambah(double, double)","u":"tambah(double,double)"}];updateSearchResults();
